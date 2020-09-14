@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Frame By Frame",
+    "name": "Video Frame By Frame ( slowmo gif facebook )",
     "version": "0.12",
     "version_name": "0.12 alpha",
     "icons": {
@@ -9,7 +9,7 @@
         "48": "icons/48.png",
         "128": "icons/128.png"
     },
-    "description": "Best Frame By Frame Tool. Works with all websites! Move your mouse cursor over video and use keyboard arrows to switch frames.",
+    "description": "Video frame by frame. Move the mouse over videos + use arrow-keys to play frames. Slow motion reddit 9gag twitter tiktok animation",
     
     "content_scripts": [{
         "all_frames": true,
